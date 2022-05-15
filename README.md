@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-This a Modern UI/UX Restaurant Landing Page.
+This a Modern UI/UX Restaurant Landing Page. https://gericht-ux-ui.netlify.app/
 
 This website is built with best react practices. They include the use of the following: 
 - React Functional components and their reusability
